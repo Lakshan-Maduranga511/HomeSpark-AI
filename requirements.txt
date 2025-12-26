@@ -1,0 +1,135 @@
+# HomeSpark - Python Dependencies
+# Python 3.9+
+
+# ==========================================
+# Core Framework
+# ==========================================
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# ==========================================
+# Machine Learning & Data Science
+# ==========================================
+# Core ML Libraries
+scikit-learn==1.3.2
+numpy==1.24.3
+pandas==2.0.3
+
+# Clustering & Decomposition
+scipy==1.11.4
+
+# ==========================================
+# Data Visualization
+# ==========================================
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# ==========================================
+# API Integration
+# ==========================================
+requests==2.31.0
+aiohttp==3.9.1
+httpx==0.25.2
+
+# ==========================================
+# Environment Management
+# ==========================================
+python-dotenv==1.0.0
+
+# ==========================================
+# Data Processing
+# ==========================================
+# CSV/Excel handling
+openpyxl==3.1.2
+
+# JSON handling (usually included in Python, but explicit)
+ujson==5.9.0
+
+# ==========================================
+# Model Serialization
+# ==========================================
+joblib==1.3.2
+pickle5==0.0.11; python_version < '3.8'
+
+# ==========================================
+# CORS & Security
+# ==========================================
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+
+# ==========================================
+# Testing
+# ==========================================
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.25.2  # For testing FastAPI
+
+# ==========================================
+# Code Quality
+# ==========================================
+pylint==3.0.3
+black==23.12.0
+flake8==6.1.0
+mypy==1.7.1
+
+# ==========================================
+# Utilities
+# ==========================================
+# Date/Time
+python-dateutil==2.8.2
+
+# Progress bars
+tqdm==4.66.1
+
+# Logging
+loguru==0.7.2
+
+# ==========================================
+# Optional: Database Support
+# ==========================================
+# Uncomment if using a database
+# sqlalchemy==2.0.23
+# psycopg2-binary==2.9.9  # PostgreSQL
+# pymongo==4.6.0  # MongoDB
+
+# ==========================================
+# Optional: Caching
+# ==========================================
+# redis==5.0.1
+# python-redis==0.1.4
+
+# ==========================================
+# Optional: File Processing
+# ==========================================
+# Pillow==10.1.0  # Image processing
+# PyPDF2==3.0.1  # PDF handling
+
+# ==========================================
+# Production Server
+# ==========================================
+gunicorn==21.2.0
+
+# ==========================================
+# Monitoring & Performance
+# ==========================================
+# prometheus-client==0.19.0
+# opentelemetry-api==1.21.0
+
+# ==========================================
+# Notes
+# ==========================================
+# Installation:
+#   pip install -r requirements.txt
+#
+# For development:
+#   pip install -r requirements.txt --upgrade
+#
+# Create virtual environment:
+#   python -m venv venv
+#   source venv/bin/activate  # Linux/Mac
+#   venv\Scripts\activate     # Windows
+#   pip install -r requirements.txt

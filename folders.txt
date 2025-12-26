@@ -1,0 +1,3476 @@
+Folder PATH listing
+Volume serial number is 4802-DEF6
+C:.
++---.next
+|   +---build
+|   |   \---chunks
+|   +---cache
+|   |   \---eslint
+|   +---diagnostics
+|   +---server
+|   |   +---app
+|   |   |   +---about
+|   |   |   |   \---page
+|   |   |   +---contact
+|   |   |   |   \---page
+|   |   |   +---favicon.ico
+|   |   |   |   \---route
+|   |   |   +---page
+|   |   |   +---recommendations
+|   |   |   |   \---page
+|   |   |   +---saved-recommendations
+|   |   |   |   \---page
+|   |   |   +---wizard
+|   |   |   |   \---page
+|   |   |   \---_not-found
+|   |   |       \---page
+|   |   +---chunks
+|   |   |   \---ssr
+|   |   \---pages
+|   |       +---_app
+|   |       +---_document
+|   |       \---_error
+|   +---static
+|   |   +---chunks
+|   |   |   \---pages
+|   |   +---development
+|   |   +---g65-tSzA1h-nbHXUGgEOh
+|   |   \---media
+|   \---types
++---components
+|   +---auth
+|   +---recommendations
+|   \---wizard
++---contexts
++---hooks
++---ml_api
+|   \---venv
+|       +---Include
+|       +---Lib
+|       |   \---site-packages
+|       |       +---annotated_types
+|       |       |   \---__pycache__
+|       |       +---annotated_types-0.7.0.dist-info
+|       |       |   \---licenses
+|       |       +---anyio
+|       |       |   +---abc
+|       |       |   |   \---__pycache__
+|       |       |   +---streams
+|       |       |   |   \---__pycache__
+|       |       |   +---_backends
+|       |       |   |   \---__pycache__
+|       |       |   +---_core
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---anyio-4.11.0.dist-info
+|       |       |   \---licenses
+|       |       +---certifi
+|       |       |   \---__pycache__
+|       |       +---certifi-2025.10.5.dist-info
+|       |       |   \---licenses
+|       |       +---charset_normalizer
+|       |       |   +---cli
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---charset_normalizer-3.4.4.dist-info
+|       |       |   \---licenses
+|       |       +---click
+|       |       |   \---__pycache__
+|       |       +---click-8.3.0.dist-info
+|       |       |   \---licenses
+|       |       +---colorama
+|       |       |   +---tests
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---colorama-0.4.6.dist-info
+|       |       |   \---licenses
+|       |       +---dateutil
+|       |       |   +---parser
+|       |       |   |   \---__pycache__
+|       |       |   +---tz
+|       |       |   |   \---__pycache__
+|       |       |   +---zoneinfo
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---dotenv
+|       |       |   \---__pycache__
+|       |       +---fastapi
+|       |       |   +---dependencies
+|       |       |   |   \---__pycache__
+|       |       |   +---middleware
+|       |       |   |   \---__pycache__
+|       |       |   +---openapi
+|       |       |   |   \---__pycache__
+|       |       |   +---security
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---fastapi-0.115.5.dist-info
+|       |       |   \---licenses
+|       |       +---h11
+|       |       |   \---__pycache__
+|       |       +---h11-0.16.0.dist-info
+|       |       |   \---licenses
+|       |       +---httptools
+|       |       |   +---parser
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---httptools-0.7.1.dist-info
+|       |       |   \---licenses
+|       |       +---idna
+|       |       |   \---__pycache__
+|       |       +---idna-3.11.dist-info
+|       |       |   \---licenses
+|       |       +---joblib
+|       |       |   +---externals
+|       |       |   |   +---cloudpickle
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---loky
+|       |       |   |   |   +---backend
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---test
+|       |       |   |   +---data
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---joblib-1.4.2.dist-info
+|       |       +---numpy
+|       |       |   +---char
+|       |       |   |   \---__pycache__
+|       |       |   +---compat
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---core
+|       |       |   |   \---__pycache__
+|       |       |   +---doc
+|       |       |   |   \---__pycache__
+|       |       |   +---f2py
+|       |       |   |   +---src
+|       |       |   |   +---tests
+|       |       |   |   |   +---src
+|       |       |   |   |   |   +---abstract_interface
+|       |       |   |   |   |   +---array_from_pyobj
+|       |       |   |   |   |   +---assumed_shape
+|       |       |   |   |   |   +---block_docstring
+|       |       |   |   |   |   +---callback
+|       |       |   |   |   |   +---cli
+|       |       |   |   |   |   +---common
+|       |       |   |   |   |   +---crackfortran
+|       |       |   |   |   |   +---f2cmap
+|       |       |   |   |   |   +---isocintrin
+|       |       |   |   |   |   +---kind
+|       |       |   |   |   |   +---mixed
+|       |       |   |   |   |   +---modules
+|       |       |   |   |   |   |   +---gh25337
+|       |       |   |   |   |   |   \---gh26920
+|       |       |   |   |   |   +---negative_bounds
+|       |       |   |   |   |   +---parameter
+|       |       |   |   |   |   +---quoted_character
+|       |       |   |   |   |   +---regression
+|       |       |   |   |   |   +---return_character
+|       |       |   |   |   |   +---return_complex
+|       |       |   |   |   |   +---return_integer
+|       |       |   |   |   |   +---return_logical
+|       |       |   |   |   |   +---return_real
+|       |       |   |   |   |   +---routines
+|       |       |   |   |   |   +---size
+|       |       |   |   |   |   +---string
+|       |       |   |   |   |   \---value_attrspec
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_backends
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---fft
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---lib
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---linalg
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---ma
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---matrixlib
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---polynomial
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---random
+|       |       |   |   +---lib
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_examples
+|       |       |   |   |   +---cffi
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---cython
+|       |       |   |   |   \---numba
+|       |       |   |   |       \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---rec
+|       |       |   |   \---__pycache__
+|       |       |   +---strings
+|       |       |   |   \---__pycache__
+|       |       |   +---testing
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_private
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---tests
+|       |       |   |   \---__pycache__
+|       |       |   +---typing
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   |   +---fail
+|       |       |   |   |   |   +---misc
+|       |       |   |   |   |   +---pass
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---reveal
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---_core
+|       |       |   |   +---include
+|       |       |   |   |   \---numpy
+|       |       |   |   |       \---random
+|       |       |   |   +---lib
+|       |       |   |   |   +---npy-pkg-config
+|       |       |   |   |   \---pkgconfig
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   +---examples
+|       |       |   |   |   |   +---cython
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---limited_api
+|       |       |   |   |   |       \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---_pyinstaller
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---_typing
+|       |       |   |   \---__pycache__
+|       |       |   +---_utils
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---numpy-2.2.1.dist-info
+|       |       +---numpy.libs
+|       |       +---pandas
+|       |       |   +---api
+|       |       |   |   +---extensions
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---indexers
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---interchange
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---types
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---typing
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---arrays
+|       |       |   |   \---__pycache__
+|       |       |   +---compat
+|       |       |   |   +---numpy
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---core
+|       |       |   |   +---arrays
+|       |       |   |   |   +---arrow
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---sparse
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---array_algos
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---computation
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---dtypes
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---groupby
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---indexers
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---indexes
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---interchange
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---internals
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---methods
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---ops
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---reshape
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---sparse
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---strings
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tools
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---util
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---window
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_numba
+|       |       |   |   |   +---kernels
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---errors
+|       |       |   |   \---__pycache__
+|       |       |   +---io
+|       |       |   |   +---clipboard
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---excel
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---formats
+|       |       |   |   |   +---templates
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---json
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---parsers
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---sas
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---plotting
+|       |       |   |   +---_matplotlib
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---tests
+|       |       |   |   +---api
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---apply
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---arithmetic
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---arrays
+|       |       |   |   |   +---boolean
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---categorical
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---datetimes
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---floating
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---integer
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---interval
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---masked
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---numpy_
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---period
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---sparse
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---string_
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---timedeltas
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---base
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---computation
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---config
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---construction
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---copy_view
+|       |       |   |   |   +---index
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---dtypes
+|       |       |   |   |   +---cast
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---extension
+|       |       |   |   |   +---array_with_attr
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---base
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---date
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---decimal
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---json
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---list
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---frame
+|       |       |   |   |   +---constructors
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---indexing
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---methods
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---generic
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---groupby
+|       |       |   |   |   +---aggregate
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---methods
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---transform
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---indexes
+|       |       |   |   |   +---base_class
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---categorical
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---datetimelike_
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---datetimes
+|       |       |   |   |   |   +---methods
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---interval
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---multi
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---numeric
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---object
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---period
+|       |       |   |   |   |   +---methods
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---ranges
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---timedeltas
+|       |       |   |   |   |   +---methods
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---indexing
+|       |       |   |   |   +---interval
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---multiindex
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---interchange
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---internals
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---io
+|       |       |   |   |   +---excel
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---formats
+|       |       |   |   |   |   +---style
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---json
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---parser
+|       |       |   |   |   |   +---common
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   +---dtypes
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   +---usecols
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---pytables
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---sas
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---xml
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---libs
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---plotting
+|       |       |   |   |   +---frame
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---reductions
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---resample
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---reshape
+|       |       |   |   |   +---concat
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---merge
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---scalar
+|       |       |   |   |   +---interval
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---period
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---timedelta
+|       |       |   |   |   |   +---methods
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---timestamp
+|       |       |   |   |   |   +---methods
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---series
+|       |       |   |   |   +---accessors
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---indexing
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---methods
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---strings
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tools
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tseries
+|       |       |   |   |   +---frequencies
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---holiday
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---offsets
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tslibs
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---util
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---window
+|       |       |   |   |   +---moments
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---tseries
+|       |       |   |   \---__pycache__
+|       |       |   +---util
+|       |       |   |   +---version
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---_config
+|       |       |   |   \---__pycache__
+|       |       |   +---_libs
+|       |       |   |   +---tslibs
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---window
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---_testing
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---pandas-2.2.3.dist-info
+|       |       +---pandas.libs
+|       |       +---pip
+|       |       |   +---_internal
+|       |       |   |   +---cli
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---commands
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---distributions
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---index
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---locations
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---metadata
+|       |       |   |   |   +---importlib
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---models
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---network
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---operations
+|       |       |   |   |   +---build
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---install
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---req
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---resolution
+|       |       |   |   |   +---legacy
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---resolvelib
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---utils
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---vcs
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---_vendor
+|       |       |   |   +---cachecontrol
+|       |       |   |   |   +---caches
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---certifi
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---distlib
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---distro
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---idna
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---msgpack
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---packaging
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---pkg_resources
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---platformdirs
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---pygments
+|       |       |   |   |   +---filters
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---formatters
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---lexers
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---styles
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---pyproject_hooks
+|       |       |   |   |   +---_in_process
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---requests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---resolvelib
+|       |       |   |   |   +---compat
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---rich
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tomli
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---truststore
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---urllib3
+|       |       |   |   |   +---contrib
+|       |       |   |   |   |   +---_securetransport
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---packages
+|       |       |   |   |   |   +---backports
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---util
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---pip-24.3.1.dist-info
+|       |       +---pydantic
+|       |       |   +---deprecated
+|       |       |   |   \---__pycache__
+|       |       |   +---experimental
+|       |       |   |   \---__pycache__
+|       |       |   +---plugin
+|       |       |   |   \---__pycache__
+|       |       |   +---v1
+|       |       |   |   \---__pycache__
+|       |       |   +---_internal
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---pydantic-2.10.3.dist-info
+|       |       |   \---licenses
+|       |       +---pydantic_core
+|       |       |   \---__pycache__
+|       |       +---pydantic_core-2.27.1.dist-info
+|       |       |   \---licenses
+|       |       +---python_dateutil-2.9.0.post0.dist-info
+|       |       +---python_dotenv-1.2.1.dist-info
+|       |       |   \---licenses
+|       |       +---pytz
+|       |       |   +---zoneinfo
+|       |       |   |   +---Africa
+|       |       |   |   +---America
+|       |       |   |   |   +---Argentina
+|       |       |   |   |   +---Indiana
+|       |       |   |   |   +---Kentucky
+|       |       |   |   |   \---North_Dakota
+|       |       |   |   +---Antarctica
+|       |       |   |   +---Arctic
+|       |       |   |   +---Asia
+|       |       |   |   +---Atlantic
+|       |       |   |   +---Australia
+|       |       |   |   +---Brazil
+|       |       |   |   +---Canada
+|       |       |   |   +---Chile
+|       |       |   |   +---Etc
+|       |       |   |   +---Europe
+|       |       |   |   +---Indian
+|       |       |   |   +---Mexico
+|       |       |   |   +---Pacific
+|       |       |   |   \---US
+|       |       |   \---__pycache__
+|       |       +---pytz-2025.2.dist-info
+|       |       +---pyyaml-6.0.3.dist-info
+|       |       |   \---licenses
+|       |       +---requests
+|       |       |   \---__pycache__
+|       |       +---requests-2.32.3.dist-info
+|       |       +---scikit_learn-1.6.1.dist-info
+|       |       +---scipy
+|       |       |   +---cluster
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---constants
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---datasets
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---differentiate
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---fft
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_pocketfft
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---fftpack
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---integrate
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_ivp
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_rules
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---interpolate
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---io
+|       |       |   |   +---arff
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   +---data
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---matlab
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   +---data
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_fast_matrix_market
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_harwell_boeing
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---linalg
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   +---_cython_examples
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---misc
+|       |       |   |   \---__pycache__
+|       |       |   +---ndimage
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---odr
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---optimize
+|       |       |   |   +---cython_optimize
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tests
+|       |       |   |   |   +---_cython_examples
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_highspy
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_lsq
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_shgo_lib
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_trlib
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_trustregion_constr
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---signal
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---windows
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---sparse
+|       |       |   |   +---csgraph
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---linalg
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---_dsolve
+|       |       |   |   |   |   +---tests
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---_eigen
+|       |       |   |   |   |   +---arpack
+|       |       |   |   |   |   |   +---tests
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   +---lobpcg
+|       |       |   |   |   |   |   +---tests
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   +---tests
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---_isolve
+|       |       |   |   |   |   +---tests
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---_propack
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---spatial
+|       |       |   |   +---qhull_src
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---transform
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---special
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---_cython_examples
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_precompute
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---stats
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   |   +---levy_stable
+|       |       |   |   |   |   +---nist_anova
+|       |       |   |   |   |   +---nist_linregress
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_levy_stable
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_rcont
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_unuran
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---_lib
+|       |       |   |   +---array_api_compat
+|       |       |   |   |   +---common
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---cupy
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---dask
+|       |       |   |   |   |   +---array
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---numpy
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---torch
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---array_api_extra
+|       |       |   |   |   +---_lib
+|       |       |   |   |   |   +---_utils
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---cobyqa
+|       |       |   |   |   +---subsolvers
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---utils
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---pyprima
+|       |       |   |   |   +---cobyla
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---common
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_uarray
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---scipy-1.16.3.dist-info
+|       |       +---scipy.libs
+|       |       +---six-1.17.0.dist-info
+|       |       +---sklearn
+|       |       |   +---.libs
+|       |       |   +---cluster
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_hdbscan
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---compose
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---covariance
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---cross_decomposition
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---datasets
+|       |       |   |   +---data
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---descr
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---images
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tests
+|       |       |   |   |   +---data
+|       |       |   |   |   |   +---openml
+|       |       |   |   |   |   |   +---id_1
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_1119
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_1590
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_2
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_292
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_3
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_40589
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_40675
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_40945
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_40966
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_42074
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_42585
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_561
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_61
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   +---id_62
+|       |       |   |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---decomposition
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---ensemble
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_hist_gradient_boosting
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---experimental
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---externals
+|       |       |   |   +---_packaging
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_scipy
+|       |       |   |   |   +---sparse
+|       |       |   |   |   |   +---csgraph
+|       |       |   |   |   |   |   \---__pycache__
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---feature_extraction
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---feature_selection
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---frozen
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---gaussian_process
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---impute
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---inspection
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_plot
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---linear_model
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_glm
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---manifold
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---metrics
+|       |       |   |   +---cluster
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_pairwise_distances_reduction
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_plot
+|       |       |   |   |   +---tests
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---mixture
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---model_selection
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---neighbors
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---neural_network
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---preprocessing
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---semi_supervised
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---svm
+|       |       |   |   +---src
+|       |       |   |   |   +---liblinear
+|       |       |   |   |   +---libsvm
+|       |       |   |   |   \---newrand
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---tests
+|       |       |   |   \---__pycache__
+|       |       |   +---tree
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---utils
+|       |       |   |   +---src
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---_test_common
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---_build_utils
+|       |       |   |   \---__pycache__
+|       |       |   +---_loss
+|       |       |   |   +---tests
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---__check_build
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---sniffio
+|       |       |   +---_tests
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---sniffio-1.3.1.dist-info
+|       |       +---starlette
+|       |       |   +---middleware
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---starlette-0.41.3.dist-info
+|       |       |   \---licenses
+|       |       +---threadpoolctl-3.6.0.dist-info
+|       |       |   \---licenses
+|       |       +---typing_extensions-4.15.0.dist-info
+|       |       |   \---licenses
+|       |       +---tzdata
+|       |       |   +---zoneinfo
+|       |       |   |   +---Africa
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---America
+|       |       |   |   |   +---Argentina
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---Indiana
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---Kentucky
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   +---North_Dakota
+|       |       |   |   |   |   \---__pycache__
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Antarctica
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Arctic
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Asia
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Atlantic
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Australia
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Brazil
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Canada
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Chile
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Etc
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Europe
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Indian
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Mexico
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---Pacific
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---US
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---tzdata-2025.2.dist-info
+|       |       |   \---licenses
+|       |       |       \---licenses
+|       |       +---urllib3
+|       |       |   +---contrib
+|       |       |   |   +---emscripten
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---http2
+|       |       |   |   \---__pycache__
+|       |       |   +---util
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---urllib3-2.5.0.dist-info
+|       |       |   \---licenses
+|       |       +---uvicorn
+|       |       |   +---lifespan
+|       |       |   |   \---__pycache__
+|       |       |   +---loops
+|       |       |   |   \---__pycache__
+|       |       |   +---middleware
+|       |       |   |   \---__pycache__
+|       |       |   +---protocols
+|       |       |   |   +---http
+|       |       |   |   |   \---__pycache__
+|       |       |   |   +---websockets
+|       |       |   |   |   \---__pycache__
+|       |       |   |   \---__pycache__
+|       |       |   +---supervisors
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---uvicorn-0.32.1.dist-info
+|       |       |   \---licenses
+|       |       +---watchfiles
+|       |       |   \---__pycache__
+|       |       +---watchfiles-1.1.1.dist-info
+|       |       |   \---licenses
+|       |       +---websockets
+|       |       |   +---asyncio
+|       |       |   |   \---__pycache__
+|       |       |   +---extensions
+|       |       |   |   \---__pycache__
+|       |       |   +---legacy
+|       |       |   |   \---__pycache__
+|       |       |   +---sync
+|       |       |   |   \---__pycache__
+|       |       |   \---__pycache__
+|       |       +---websockets-15.0.1.dist-info
+|       |       +---yaml
+|       |       |   \---__pycache__
+|       |       +---_yaml
+|       |       |   \---__pycache__
+|       |       \---__pycache__
+|       \---Scripts
++---node_modules
+|   +---.bin
+|   +---@alloc
+|   |   \---quick-lru
+|   +---@emailjs
+|   |   \---browser
+|   |       +---cjs
+|   |       |   +---api
+|   |       |   +---errors
+|   |       |   |   +---blockedEmailError
+|   |       |   |   +---headlessError
+|   |       |   |   \---limitRateError
+|   |       |   +---methods
+|   |       |   |   +---init
+|   |       |   |   +---send
+|   |       |   |   \---sendForm
+|   |       |   +---models
+|   |       |   +---store
+|   |       |   +---types
+|   |       |   \---utils
+|   |       |       +---buildOptions
+|   |       |       +---createWebStorage
+|   |       |       +---isBlockedValueInParams
+|   |       |       +---isHeadless
+|   |       |       +---isLimitRateHit
+|   |       |       +---validateBlockListParams
+|   |       |       +---validateForm
+|   |       |       +---validateLimitRateParams
+|   |       |       +---validateParams
+|   |       |       \---validateTemplateParams
+|   |       +---dist
+|   |       \---es
+|   |           +---api
+|   |           +---errors
+|   |           |   +---blockedEmailError
+|   |           |   +---headlessError
+|   |           |   \---limitRateError
+|   |           +---methods
+|   |           |   +---init
+|   |           |   +---send
+|   |           |   \---sendForm
+|   |           +---models
+|   |           +---store
+|   |           +---types
+|   |           \---utils
+|   |               +---buildOptions
+|   |               +---createWebStorage
+|   |               +---isBlockedValueInParams
+|   |               +---isHeadless
+|   |               +---isLimitRateHit
+|   |               +---validateBlockListParams
+|   |               +---validateForm
+|   |               +---validateLimitRateParams
+|   |               +---validateParams
+|   |               \---validateTemplateParams
+|   +---@emnapi
+|   |   +---core
+|   |   |   \---dist
+|   |   +---runtime
+|   |   |   \---dist
+|   |   \---wasi-threads
+|   |       \---dist
+|   +---@eslint
+|   |   +---config-array
+|   |   |   \---dist
+|   |   |       +---cjs
+|   |   |       |   \---std__path
+|   |   |       \---esm
+|   |   |           \---std__path
+|   |   +---config-helpers
+|   |   |   \---dist
+|   |   |       +---cjs
+|   |   |       \---esm
+|   |   +---core
+|   |   |   \---dist
+|   |   |       +---cjs
+|   |   |       \---esm
+|   |   +---eslintrc
+|   |   |   +---conf
+|   |   |   +---dist
+|   |   |   \---lib
+|   |   |       +---config-array
+|   |   |       +---shared
+|   |   |       \---types
+|   |   +---js
+|   |   |   +---src
+|   |   |   |   \---configs
+|   |   |   \---types
+|   |   +---object-schema
+|   |   |   \---dist
+|   |   |       +---cjs
+|   |   |       \---esm
+|   |   \---plugin-kit
+|   |       \---dist
+|   |           +---cjs
+|   |           \---esm
+|   +---@eslint-community
+|   |   +---eslint-utils
+|   |   |   \---node_modules
+|   |   |       \---eslint-visitor-keys
+|   |   |           +---dist
+|   |   |           \---lib
+|   |   \---regexpp
+|   +---@humanfs
+|   |   +---core
+|   |   |   +---dist
+|   |   |   \---src
+|   |   \---node
+|   |       +---dist
+|   |       +---node_modules
+|   |       |   \---@humanwhocodes
+|   |       |       \---retry
+|   |       |           \---dist
+|   |       \---src
+|   +---@humanwhocodes
+|   |   +---module-importer
+|   |   |   +---dist
+|   |   |   \---src
+|   |   \---retry
+|   |       \---dist
+|   +---@img
+|   |   \---sharp-win32-x64
+|   |       \---lib
+|   +---@isaacs
+|   |   +---cliui
+|   |   |   \---build
+|   |   |       \---lib
+|   |   \---fs-minipass
+|   |       \---dist
+|   |           +---commonjs
+|   |           \---esm
+|   +---@jridgewell
+|   |   +---gen-mapping
+|   |   |   +---dist
+|   |   |   |   \---types
+|   |   |   +---src
+|   |   |   \---types
+|   |   +---remapping
+|   |   |   +---dist
+|   |   |   +---src
+|   |   |   \---types
+|   |   +---resolve-uri
+|   |   |   \---dist
+|   |   |       \---types
+|   |   +---sourcemap-codec
+|   |   |   +---dist
+|   |   |   +---src
+|   |   |   \---types
+|   |   \---trace-mapping
+|   |       +---dist
+|   |       +---src
+|   |       \---types
+|   +---@napi-rs
+|   |   \---wasm-runtime
+|   |       \---dist
+|   +---@next
+|   |   +---env
+|   |   |   \---dist
+|   |   +---eslint-plugin-next
+|   |   |   \---dist
+|   |   |       +---rules
+|   |   |       \---utils
+|   |   \---swc-win32-x64-msvc
+|   +---@nodelib
+|   |   +---fs.scandir
+|   |   |   \---out
+|   |   |       +---adapters
+|   |   |       +---providers
+|   |   |       +---types
+|   |   |       \---utils
+|   |   +---fs.stat
+|   |   |   \---out
+|   |   |       +---adapters
+|   |   |       +---providers
+|   |   |       \---types
+|   |   \---fs.walk
+|   |       \---out
+|   |           +---providers
+|   |           +---readers
+|   |           \---types
+|   +---@nolyfill
+|   |   \---is-core-module
+|   +---@pkgjs
+|   |   \---parseargs
+|   |       +---examples
+|   |       \---internal
+|   +---@rtsao
+|   |   \---scc
+|   +---@rushstack
+|   |   \---eslint-patch
+|   |       \---lib
+|   |           +---eslint-bulk-suppressions
+|   |           |   \---cli
+|   |           |       \---utils
+|   |           \---exports
+|   +---@swc
+|   |   \---helpers
+|   |       +---cjs
+|   |       +---esm
+|   |       +---scripts
+|   |       +---src
+|   |       \---_
+|   |           +---index
+|   |           +---_apply_decorated_descriptor
+|   |           +---_apply_decs_2203_r
+|   |           +---_array_like_to_array
+|   |           +---_array_without_holes
+|   |           +---_array_with_holes
+|   |           +---_assert_this_initialized
+|   |           +---_async_generator
+|   |           +---_async_generator_delegate
+|   |           +---_async_iterator
+|   |           +---_async_to_generator
+|   |           +---_await_async_generator
+|   |           +---_await_value
+|   |           +---_call_super
+|   |           +---_check_private_redeclaration
+|   |           +---_class_apply_descriptor_destructure
+|   |           +---_class_apply_descriptor_get
+|   |           +---_class_apply_descriptor_set
+|   |           +---_class_apply_descriptor_update
+|   |           +---_class_call_check
+|   |           +---_class_check_private_static_access
+|   |           +---_class_check_private_static_field_descriptor
+|   |           +---_class_extract_field_descriptor
+|   |           +---_class_name_tdz_error
+|   |           +---_class_private_field_destructure
+|   |           +---_class_private_field_get
+|   |           +---_class_private_field_init
+|   |           +---_class_private_field_loose_base
+|   |           +---_class_private_field_loose_key
+|   |           +---_class_private_field_set
+|   |           +---_class_private_field_update
+|   |           +---_class_private_method_get
+|   |           +---_class_private_method_init
+|   |           +---_class_private_method_set
+|   |           +---_class_static_private_field_destructure
+|   |           +---_class_static_private_field_spec_get
+|   |           +---_class_static_private_field_spec_set
+|   |           +---_class_static_private_field_update
+|   |           +---_class_static_private_method_get
+|   |           +---_construct
+|   |           +---_create_class
+|   |           +---_create_for_of_iterator_helper_loose
+|   |           +---_create_super
+|   |           +---_decorate
+|   |           +---_defaults
+|   |           +---_define_enumerable_properties
+|   |           +---_define_property
+|   |           +---_dispose
+|   |           +---_export_star
+|   |           +---_extends
+|   |           +---_get
+|   |           +---_get_prototype_of
+|   |           +---_identity
+|   |           +---_inherits
+|   |           +---_inherits_loose
+|   |           +---_initializer_define_property
+|   |           +---_initializer_warning_helper
+|   |           +---_instanceof
+|   |           +---_interop_require_default
+|   |           +---_interop_require_wildcard
+|   |           +---_is_native_function
+|   |           +---_is_native_reflect_construct
+|   |           +---_iterable_to_array
+|   |           +---_iterable_to_array_limit
+|   |           +---_iterable_to_array_limit_loose
+|   |           +---_jsx
+|   |           +---_new_arrow_check
+|   |           +---_non_iterable_rest
+|   |           +---_non_iterable_spread
+|   |           +---_object_destructuring_empty
+|   |           +---_object_spread
+|   |           +---_object_spread_props
+|   |           +---_object_without_properties
+|   |           +---_object_without_properties_loose
+|   |           +---_possible_constructor_return
+|   |           +---_read_only_error
+|   |           +---_set
+|   |           +---_set_prototype_of
+|   |           +---_skip_first_generator_next
+|   |           +---_sliced_to_array
+|   |           +---_sliced_to_array_loose
+|   |           +---_super_prop_base
+|   |           +---_tagged_template_literal
+|   |           +---_tagged_template_literal_loose
+|   |           +---_throw
+|   |           +---_to_array
+|   |           +---_to_consumable_array
+|   |           +---_to_primitive
+|   |           +---_to_property_key
+|   |           +---_ts_add_disposable_resource
+|   |           +---_ts_decorate
+|   |           +---_ts_dispose_resources
+|   |           +---_ts_generator
+|   |           +---_ts_metadata
+|   |           +---_ts_param
+|   |           +---_ts_values
+|   |           +---_type_of
+|   |           +---_unsupported_iterable_to_array
+|   |           +---_update
+|   |           +---_using
+|   |           +---_using_ctx
+|   |           +---_wrap_async_generator
+|   |           +---_wrap_native_super
+|   |           \---_write_only_error
+|   +---@tailwindcss
+|   |   +---node
+|   |   |   +---dist
+|   |   |   \---node_modules
+|   |   |       \---tailwindcss
+|   |   |           \---dist
+|   |   +---oxide
+|   |   |   \---scripts
+|   |   +---oxide-win32-x64-msvc
+|   |   \---postcss
+|   |       +---dist
+|   |       \---node_modules
+|   |           \---tailwindcss
+|   |               \---dist
+|   +---@tybys
+|   |   \---wasm-util
+|   |       +---dist
+|   |       \---lib
+|   |           +---cjs
+|   |           |   \---wasi
+|   |           \---mjs
+|   |               \---wasi
+|   +---@types
+|   |   +---estree
+|   |   +---json-schema
+|   |   \---json5
+|   +---@typescript-eslint
+|   |   +---eslint-plugin
+|   |   |   +---dist
+|   |   |   |   +---configs
+|   |   |   |   |   +---eslintrc
+|   |   |   |   |   \---flat
+|   |   |   |   +---rules
+|   |   |   |   |   +---enum-utils
+|   |   |   |   |   +---naming-convention-utils
+|   |   |   |   |   \---prefer-optional-chain-utils
+|   |   |   |   \---util
+|   |   |   \---node_modules
+|   |   |       \---ignore
+|   |   +---parser
+|   |   |   \---dist
+|   |   +---project-service
+|   |   |   \---dist
+|   |   +---scope-manager
+|   |   |   \---dist
+|   |   |       +---definition
+|   |   |       +---lib
+|   |   |       +---referencer
+|   |   |       +---scope
+|   |   |       \---variable
+|   |   +---tsconfig-utils
+|   |   |   \---dist
+|   |   +---type-utils
+|   |   |   \---dist
+|   |   |       \---typeOrValueSpecifiers
+|   |   +---types
+|   |   |   \---dist
+|   |   |       \---generated
+|   |   +---typescript-estree
+|   |   |   +---dist
+|   |   |   |   +---create-program
+|   |   |   |   +---jsx
+|   |   |   |   +---parseSettings
+|   |   |   |   \---ts-estree
+|   |   |   \---node_modules
+|   |   |       +---brace-expansion
+|   |   |       |   \---.github
+|   |   |       +---fast-glob
+|   |   |       |   \---out
+|   |   |       |       +---managers
+|   |   |       |       +---providers
+|   |   |       |       |   +---filters
+|   |   |       |       |   +---matchers
+|   |   |       |       |   \---transformers
+|   |   |       |       +---readers
+|   |   |       |       +---types
+|   |   |       |       \---utils
+|   |   |       +---glob-parent
+|   |   |       \---minimatch
+|   |   |           \---dist
+|   |   |               +---commonjs
+|   |   |               \---esm
+|   |   +---utils
+|   |   |   \---dist
+|   |   |       +---ast-utils
+|   |   |       |   \---eslint-utils
+|   |   |       +---eslint-utils
+|   |   |       +---ts-eslint
+|   |   |       |   \---eslint
+|   |   |       \---ts-utils
+|   |   \---visitor-keys
+|   |       \---dist
+|   +---@unrs
+|   |   \---resolver-binding-win32-x64-msvc
+|   +---acorn
+|   |   +---bin
+|   |   \---dist
+|   +---acorn-jsx
+|   +---ajv
+|   |   +---dist
+|   |   +---lib
+|   |   |   +---compile
+|   |   |   +---dot
+|   |   |   +---dotjs
+|   |   |   \---refs
+|   |   \---scripts
+|   +---ansi-regex
+|   +---ansi-styles
+|   +---any-promise
+|   |   \---register
+|   +---anymatch
+|   +---arg
+|   +---argparse
+|   |   \---lib
+|   +---aria-query
+|   |   \---lib
+|   |       +---etc
+|   |       |   \---roles
+|   |       |       +---abstract
+|   |       |       +---dpub
+|   |       |       +---graphics
+|   |       |       \---literal
+|   |       \---util
+|   +---array-buffer-byte-length
+|   |   +---.github
+|   |   \---test
+|   +---array-includes
+|   |   +---.github
+|   |   \---test
+|   +---array.prototype.findlast
+|   |   +---.github
+|   |   \---test
+|   +---array.prototype.findlastindex
+|   |   +---.github
+|   |   \---test
+|   +---array.prototype.flat
+|   |   +---.github
+|   |   \---test
+|   +---array.prototype.flatmap
+|   |   +---.github
+|   |   \---test
+|   +---array.prototype.tosorted
+|   |   +---.github
+|   |   \---test
+|   +---arraybuffer.prototype.slice
+|   |   \---test
+|   +---ast-types-flow
+|   |   \---lib
+|   +---async-function
+|   |   +---.github
+|   |   \---test
+|   +---autoprefixer
+|   |   +---bin
+|   |   +---data
+|   |   \---lib
+|   |       \---hacks
+|   +---available-typed-arrays
+|   |   +---.github
+|   |   \---test
+|   +---axe-core
+|   |   \---locales
+|   +---axobject-query
+|   |   \---lib
+|   |       +---etc
+|   |       |   \---objects
+|   |       \---util
+|   +---balanced-match
+|   |   \---.github
+|   +---binary-extensions
+|   +---boolbase
+|   +---brace-expansion
+|   +---braces
+|   |   \---lib
+|   +---browserslist
+|   +---call-bind
+|   |   +---.github
+|   |   \---test
+|   +---call-bind-apply-helpers
+|   |   +---.github
+|   |   \---test
+|   +---call-bound
+|   |   +---.github
+|   |   \---test
+|   +---callsites
+|   +---camelcase-css
+|   +---caniuse-lite
+|   |   +---data
+|   |   |   +---features
+|   |   |   \---regions
+|   |   \---dist
+|   |       +---lib
+|   |       \---unpacker
+|   +---chalk
+|   |   \---source
+|   +---chokidar
+|   |   +---lib
+|   |   +---node_modules
+|   |   |   \---glob-parent
+|   |   \---types
+|   +---chownr
+|   |   \---dist
+|   |       +---commonjs
+|   |       \---esm
+|   +---client-only
+|   +---color
+|   +---color-convert
+|   +---color-name
+|   +---color-string
+|   +---commander
+|   |   \---typings
+|   +---concat-map
+|   |   +---example
+|   |   \---test
+|   +---critters
+|   |   +---dist
+|   |   \---src
+|   +---cross-spawn
+|   |   \---lib
+|   |       \---util
+|   +---css-select
+|   |   \---lib
+|   |       +---esm
+|   |       |   +---helpers
+|   |       |   \---pseudo-selectors
+|   |       +---helpers
+|   |       \---pseudo-selectors
+|   +---css-what
+|   |   \---lib
+|   |       +---commonjs
+|   |       \---es
+|   +---cssesc
+|   |   +---bin
+|   |   \---man
+|   +---damerau-levenshtein
+|   |   +---scripts
+|   |   \---test
+|   +---data-view-buffer
+|   |   +---.github
+|   |   \---test
+|   +---data-view-byte-length
+|   |   +---.github
+|   |   \---test
+|   +---data-view-byte-offset
+|   |   +---.github
+|   |   \---test
+|   +---debug
+|   |   \---src
+|   +---deep-is
+|   |   +---example
+|   |   \---test
+|   +---define-data-property
+|   |   +---.github
+|   |   \---test
+|   +---define-properties
+|   |   \---.github
+|   +---detect-libc
+|   |   \---lib
+|   +---didyoumean
+|   +---dlv
+|   |   \---dist
+|   +---doctrine
+|   |   \---lib
+|   +---dom-serializer
+|   |   \---lib
+|   |       \---esm
+|   +---domelementtype
+|   |   \---lib
+|   |       \---esm
+|   +---domhandler
+|   |   \---lib
+|   |       \---esm
+|   +---domutils
+|   |   \---lib
+|   |       \---esm
+|   +---dunder-proto
+|   |   +---.github
+|   |   \---test
+|   +---eastasianwidth
+|   +---electron-to-chromium
+|   +---emoji-regex
+|   |   \---es2015
+|   +---enhanced-resolve
+|   |   \---lib
+|   |       \---util
+|   +---entities
+|   |   \---lib
+|   |       +---esm
+|   |       |   \---generated
+|   |       \---generated
+|   +---es-abstract
+|   |   +---2015
+|   |   |   \---tables
+|   |   +---2016
+|   |   |   \---tables
+|   |   +---2017
+|   |   |   \---tables
+|   |   +---2018
+|   |   |   \---tables
+|   |   +---2019
+|   |   |   \---tables
+|   |   +---2020
+|   |   |   +---BigInt
+|   |   |   +---Number
+|   |   |   \---tables
+|   |   +---2021
+|   |   |   +---BigInt
+|   |   |   +---Number
+|   |   |   \---tables
+|   |   +---2022
+|   |   |   +---BigInt
+|   |   |   +---Number
+|   |   |   \---tables
+|   |   +---2023
+|   |   |   +---BigInt
+|   |   |   +---Number
+|   |   |   \---tables
+|   |   +---2024
+|   |   |   +---BigInt
+|   |   |   +---Number
+|   |   |   \---tables
+|   |   +---2025
+|   |   |   +---BigInt
+|   |   |   +---Number
+|   |   |   \---tables
+|   |   +---5
+|   |   +---helpers
+|   |   |   \---records
+|   |   \---operations
+|   +---es-define-property
+|   |   +---.github
+|   |   \---test
+|   +---es-errors
+|   |   +---.github
+|   |   \---test
+|   +---es-iterator-helpers
+|   |   +---.github
+|   |   +---aos
+|   |   +---Iterator
+|   |   +---Iterator.concat
+|   |   +---Iterator.from
+|   |   +---Iterator.prototype
+|   |   +---Iterator.prototype.constructor
+|   |   +---Iterator.prototype.drop
+|   |   +---Iterator.prototype.every
+|   |   +---Iterator.prototype.filter
+|   |   +---Iterator.prototype.find
+|   |   +---Iterator.prototype.flatMap
+|   |   +---Iterator.prototype.forEach
+|   |   +---Iterator.prototype.map
+|   |   +---Iterator.prototype.reduce
+|   |   +---Iterator.prototype.some
+|   |   +---Iterator.prototype.take
+|   |   +---Iterator.prototype.toArray
+|   |   +---Iterator.zip
+|   |   +---Iterator.zipKeyed
+|   |   +---IteratorHelperPrototype
+|   |   +---test
+|   |   |   \---helpers
+|   |   \---WrapForValidIteratorPrototype
+|   +---es-object-atoms
+|   |   +---.github
+|   |   \---test
+|   +---es-set-tostringtag
+|   |   \---test
+|   +---es-shim-unscopables
+|   |   +---.github
+|   |   \---test
+|   +---es-to-primitive
+|   |   +---.github
+|   |   +---helpers
+|   |   \---test
+|   +---escalade
+|   |   +---dist
+|   |   \---sync
+|   +---escape-string-regexp
+|   +---eslint
+|   |   +---bin
+|   |   +---conf
+|   |   +---lib
+|   |   |   +---cli-engine
+|   |   |   |   \---formatters
+|   |   |   +---config
+|   |   |   +---eslint
+|   |   |   +---languages
+|   |   |   |   \---js
+|   |   |   |       \---source-code
+|   |   |   |           \---token-store
+|   |   |   +---linter
+|   |   |   |   \---code-path-analysis
+|   |   |   +---rule-tester
+|   |   |   +---rules
+|   |   |   |   \---utils
+|   |   |   |       \---unicode
+|   |   |   +---services
+|   |   |   +---shared
+|   |   |   \---types
+|   |   \---messages
+|   +---eslint-config-next
+|   +---eslint-import-resolver-node
+|   |   \---node_modules
+|   |       \---debug
+|   |           \---src
+|   +---eslint-import-resolver-typescript
+|   |   \---lib
+|   +---eslint-module-utils
+|   |   \---node_modules
+|   |       \---debug
+|   |           \---src
+|   +---eslint-plugin-import
+|   |   +---config
+|   |   |   \---flat
+|   |   +---docs
+|   |   |   \---rules
+|   |   +---lib
+|   |   |   +---core
+|   |   |   +---exportMap
+|   |   |   \---rules
+|   |   +---memo-parser
+|   |   \---node_modules
+|   |       +---.bin
+|   |       +---debug
+|   |       |   \---src
+|   |       \---semver
+|   |           \---bin
+|   +---eslint-plugin-jsx-a11y
+|   |   +---docs
+|   |   |   \---rules
+|   |   +---lib
+|   |   |   +---configs
+|   |   |   +---rules
+|   |   |   \---util
+|   |   |       \---implicitRoles
+|   |   +---__mocks__
+|   |   \---__tests__
+|   |       +---src
+|   |       |   +---rules
+|   |       |   \---util
+|   |       |       \---implicitRoles
+|   |       \---__util__
+|   |           \---helpers
+|   +---eslint-plugin-react
+|   |   +---configs
+|   |   +---lib
+|   |   |   +---rules
+|   |   |   \---util
+|   |   \---node_modules
+|   |       +---.bin
+|   |       +---resolve
+|   |       |   +---.github
+|   |       |   +---bin
+|   |       |   +---example
+|   |       |   +---lib
+|   |       |   \---test
+|   |       |       +---dotdot
+|   |       |       |   \---abc
+|   |       |       +---module_dir
+|   |       |       |   +---xmodules
+|   |       |       |   |   \---aaa
+|   |       |       |   +---ymodules
+|   |       |       |   |   \---aaa
+|   |       |       |   \---zmodules
+|   |       |       |       \---bbb
+|   |       |       +---node_path
+|   |       |       |   +---x
+|   |       |       |   |   +---aaa
+|   |       |       |   |   \---ccc
+|   |       |       |   \---y
+|   |       |       |       +---bbb
+|   |       |       |       \---ccc
+|   |       |       +---pathfilter
+|   |       |       |   \---deep_ref
+|   |       |       +---precedence
+|   |       |       |   +---aaa
+|   |       |       |   \---bbb
+|   |       |       +---resolver
+|   |       |       |   +---baz
+|   |       |       |   +---browser_field
+|   |       |       |   +---dot_main
+|   |       |       |   +---dot_slash_main
+|   |       |       |   +---empty_main
+|   |       |       |   +---false_main
+|   |       |       |   +---incorrect_main
+|   |       |       |   +---invalid_main
+|   |       |       |   +---missing_index
+|   |       |       |   +---missing_main
+|   |       |       |   +---multirepo
+|   |       |       |   |   \---packages
+|   |       |       |   |       +---package-a
+|   |       |       |   |       \---package-b
+|   |       |       |   +---nested_symlinks
+|   |       |       |   |   \---mylib
+|   |       |       |   +---null_main
+|   |       |       |   +---other_path
+|   |       |       |   |   \---lib
+|   |       |       |   +---quux
+|   |       |       |   |   \---foo
+|   |       |       |   +---same_names
+|   |       |       |   |   \---foo
+|   |       |       |   +---symlinked
+|   |       |       |   |   +---package
+|   |       |       |   |   \---_
+|   |       |       |   |       +---node_modules
+|   |       |       |   |       \---symlink_target
+|   |       |       |   \---without_basedir
+|   |       |       \---shadowed_core
+|   |       |           \---node_modules
+|   |       |               \---util
+|   |       \---semver
+|   |           \---bin
+|   +---eslint-plugin-react-hooks
+|   |   \---cjs
+|   +---eslint-scope
+|   |   +---dist
+|   |   \---lib
+|   +---eslint-visitor-keys
+|   |   +---dist
+|   |   \---lib
+|   +---espree
+|   |   +---dist
+|   |   \---lib
+|   +---esquery
+|   |   \---dist
+|   +---esrecurse
+|   +---estraverse
+|   +---esutils
+|   |   \---lib
+|   +---fast-deep-equal
+|   |   \---es6
+|   +---fast-glob
+|   |   +---node_modules
+|   |   |   \---glob-parent
+|   |   \---out
+|   |       +---managers
+|   |       +---providers
+|   |       |   +---filters
+|   |       |   +---matchers
+|   |       |   \---transformers
+|   |       +---readers
+|   |       +---types
+|   |       \---utils
+|   +---fast-json-stable-stringify
+|   |   +---.github
+|   |   +---benchmark
+|   |   +---example
+|   |   \---test
+|   +---fast-levenshtein
+|   +---fastq
+|   |   +---.github
+|   |   |   \---workflows
+|   |   \---test
+|   +---file-entry-cache
+|   +---fill-range
+|   +---find-up
+|   +---flat-cache
+|   |   \---src
+|   +---flatted
+|   |   +---cjs
+|   |   +---esm
+|   |   +---php
+|   |   +---python
+|   |   \---types
+|   +---for-each
+|   |   +---.github
+|   |   \---test
+|   +---foreground-child
+|   |   \---dist
+|   |       +---commonjs
+|   |       \---esm
+|   +---fraction.js
+|   +---function-bind
+|   |   +---.github
+|   |   \---test
+|   +---function.prototype.name
+|   |   +---.github
+|   |   +---helpers
+|   |   \---test
+|   +---functions-have-names
+|   |   +---.github
+|   |   \---test
+|   +---get-intrinsic
+|   |   +---.github
+|   |   \---test
+|   +---get-proto
+|   |   +---.github
+|   |   \---test
+|   +---get-symbol-description
+|   |   +---.github
+|   |   \---test
+|   +---get-tsconfig
+|   |   \---dist
+|   +---glob
+|   |   +---dist
+|   |   |   +---commonjs
+|   |   |   \---esm
+|   |   \---node_modules
+|   |       +---brace-expansion
+|   |       |   \---.github
+|   |       \---minimatch
+|   |           \---dist
+|   |               +---commonjs
+|   |               \---esm
+|   +---glob-parent
+|   +---globals
+|   +---globalthis
+|   |   \---test
+|   +---gopd
+|   |   +---.github
+|   |   \---test
+|   +---graceful-fs
+|   +---graphemer
+|   |   \---lib
+|   +---has-bigints
+|   |   +---.github
+|   |   \---test
+|   +---has-flag
+|   +---has-property-descriptors
+|   |   +---.github
+|   |   \---test
+|   +---has-proto
+|   |   +---.github
+|   |   \---test
+|   +---has-symbols
+|   |   +---.github
+|   |   \---test
+|   |       \---shams
+|   +---has-tostringtag
+|   |   +---.github
+|   |   \---test
+|   |       \---shams
+|   +---hasown
+|   |   \---.github
+|   +---htmlparser2
+|   |   \---lib
+|   |       \---esm
+|   +---ignore
+|   +---import-fresh
+|   +---imurmurhash
+|   +---internal-slot
+|   |   +---.github
+|   |   \---test
+|   +---is-array-buffer
+|   |   +---.github
+|   |   \---test
+|   +---is-arrayish
+|   +---is-async-function
+|   |   \---test
+|   +---is-bigint
+|   |   +---.github
+|   |   \---test
+|   +---is-binary-path
+|   +---is-boolean-object
+|   |   +---.github
+|   |   \---test
+|   +---is-bun-module
+|   |   \---dist
+|   +---is-callable
+|   |   +---.github
+|   |   \---test
+|   +---is-core-module
+|   |   \---test
+|   +---is-data-view
+|   |   +---.github
+|   |   \---test
+|   +---is-date-object
+|   |   +---.github
+|   |   \---test
+|   +---is-extglob
+|   +---is-finalizationregistry
+|   |   +---.github
+|   |   \---test
+|   +---is-fullwidth-code-point
+|   +---is-generator-function
+|   |   \---test
+|   +---is-glob
+|   +---is-map
+|   |   +---.github
+|   |   \---test
+|   +---is-negative-zero
+|   |   +---.github
+|   |   \---test
+|   +---is-number
+|   +---is-number-object
+|   |   +---.github
+|   |   \---test
+|   +---is-regex
+|   |   \---test
+|   +---is-set
+|   |   +---.github
+|   |   \---test
+|   +---is-shared-array-buffer
+|   |   +---.github
+|   |   \---test
+|   +---is-string
+|   |   +---.github
+|   |   \---test
+|   +---is-symbol
+|   |   +---.github
+|   |   \---test
+|   +---is-typed-array
+|   |   +---.github
+|   |   \---test
+|   +---is-weakmap
+|   |   +---.github
+|   |   \---test
+|   +---is-weakref
+|   |   +---.github
+|   |   \---test
+|   +---is-weakset
+|   |   +---.github
+|   |   \---test
+|   +---isarray
+|   +---isexe
+|   |   \---test
+|   +---iterator.prototype
+|   |   +---.github
+|   |   \---test
+|   +---jackspeak
+|   |   \---dist
+|   |       +---commonjs
+|   |       \---esm
+|   +---jiti
+|   |   +---dist
+|   |   \---lib
+|   +---js-tokens
+|   +---js-yaml
+|   |   +---bin
+|   |   +---dist
+|   |   \---lib
+|   |       +---schema
+|   |       \---type
+|   +---json-buffer
+|   |   \---test
+|   +---json-schema-traverse
+|   |   \---spec
+|   |       \---fixtures
+|   +---json-stable-stringify-without-jsonify
+|   |   +---example
+|   |   \---test
+|   +---json5
+|   |   +---dist
+|   |   \---lib
+|   +---jsx-ast-utils
+|   |   +---.github
+|   |   +---lib
+|   |   |   \---values
+|   |   |       \---expressions
+|   |   +---src
+|   |   |   \---values
+|   |   |       \---expressions
+|   |   \---__tests__
+|   |       \---src
+|   +---keyv
+|   |   \---src
+|   +---language-subtag-registry
+|   |   \---data
+|   |       \---json
+|   +---language-tags
+|   |   \---lib
+|   +---levn
+|   |   \---lib
+|   +---lightningcss
+|   |   \---node
+|   +---lightningcss-win32-x64-msvc
+|   +---lilconfig
+|   |   \---src
+|   +---lines-and-columns
+|   |   \---build
+|   +---locate-path
+|   +---lodash.merge
+|   +---loose-envify
+|   +---lru-cache
+|   |   \---dist
+|   |       +---commonjs
+|   |       \---esm
+|   +---magic-string
+|   |   \---dist
+|   +---math-intrinsics
+|   |   +---.github
+|   |   +---constants
+|   |   \---test
+|   +---merge2
+|   +---micromatch
+|   +---minimatch
+|   +---minimist
+|   |   +---.github
+|   |   +---example
+|   |   \---test
+|   +---minipass
+|   |   \---dist
+|   |       +---commonjs
+|   |       \---esm
+|   +---minizlib
+|   |   \---dist
+|   |       +---commonjs
+|   |       \---esm
+|   +---mkdirp
+|   |   \---dist
+|   |       +---cjs
+|   |       |   \---src
+|   |       \---mjs
+|   +---ms
+|   +---mz
+|   +---nanoid
+|   |   +---async
+|   |   +---bin
+|   |   +---non-secure
+|   |   \---url-alphabet
+|   +---napi-postinstall
+|   |   \---lib
+|   +---natural-compare
+|   +---next
+|   |   +---compat
+|   |   +---dist
+|   |   |   +---api
+|   |   |   +---bin
+|   |   |   +---build
+|   |   |   |   +---adapter
+|   |   |   |   +---analysis
+|   |   |   |   +---babel
+|   |   |   |   |   +---loader
+|   |   |   |   |   \---plugins
+|   |   |   |   +---jest
+|   |   |   |   |   \---__mocks__
+|   |   |   |   +---manifests
+|   |   |   |   |   \---formatter
+|   |   |   |   +---next-config-ts
+|   |   |   |   +---output
+|   |   |   |   +---polyfills
+|   |   |   |   |   +---fetch
+|   |   |   |   |   \---object.assign
+|   |   |   |   +---segment-config
+|   |   |   |   |   +---app
+|   |   |   |   |   +---middleware
+|   |   |   |   |   \---pages
+|   |   |   |   +---static-paths
+|   |   |   |   +---swc
+|   |   |   |   +---templates
+|   |   |   |   +---turbopack-build
+|   |   |   |   +---turborepo-access-trace
+|   |   |   |   +---webpack
+|   |   |   |   |   +---alias
+|   |   |   |   |   +---config
+|   |   |   |   |   |   \---blocks
+|   |   |   |   |   |       +---css
+|   |   |   |   |   |       |   \---loaders
+|   |   |   |   |   |       \---images
+|   |   |   |   |   +---loaders
+|   |   |   |   |   |   +---css-loader
+|   |   |   |   |   |   |   \---src
+|   |   |   |   |   |   |       +---plugins
+|   |   |   |   |   |   |       \---runtime
+|   |   |   |   |   |   +---devtool
+|   |   |   |   |   |   +---lightningcss-loader
+|   |   |   |   |   |   |   \---src
+|   |   |   |   |   |   +---metadata
+|   |   |   |   |   |   +---next-app-loader
+|   |   |   |   |   |   +---next-edge-app-route-loader
+|   |   |   |   |   |   +---next-edge-ssr-loader
+|   |   |   |   |   |   +---next-flight-loader
+|   |   |   |   |   |   +---next-font-loader
+|   |   |   |   |   |   +---next-image-loader
+|   |   |   |   |   |   +---next-route-loader
+|   |   |   |   |   |   +---next-style-loader
+|   |   |   |   |   |   |   \---runtime
+|   |   |   |   |   |   +---postcss-loader
+|   |   |   |   |   |   |   \---src
+|   |   |   |   |   |   \---resolve-url-loader
+|   |   |   |   |   |       \---lib
+|   |   |   |   |   \---plugins
+|   |   |   |   |       +---minify-webpack-plugin
+|   |   |   |   |       |   \---src
+|   |   |   |   |       +---next-types-plugin
+|   |   |   |   |       +---telemetry-plugin
+|   |   |   |   |       \---wellknown-errors-plugin
+|   |   |   |   +---webpack-build
+|   |   |   |   \---webpack-config-rules
+|   |   |   +---cli
+|   |   |   |   \---internal
+|   |   |   +---client
+|   |   |   |   +---app-dir
+|   |   |   |   +---compat
+|   |   |   |   +---components
+|   |   |   |   |   +---builtin
+|   |   |   |   |   +---errors
+|   |   |   |   |   +---http-access-fallback
+|   |   |   |   |   +---metadata
+|   |   |   |   |   +---router-reducer
+|   |   |   |   |   |   \---reducers
+|   |   |   |   |   +---segment-cache-impl
+|   |   |   |   |   \---styles
+|   |   |   |   +---dev
+|   |   |   |   |   +---error-overlay
+|   |   |   |   |   \---hot-reloader
+|   |   |   |   |       +---app
+|   |   |   |   |       \---pages
+|   |   |   |   +---legacy
+|   |   |   |   +---lib
+|   |   |   |   +---portal
+|   |   |   |   +---react-client-callbacks
+|   |   |   |   +---request
+|   |   |   |   \---tracing
+|   |   |   +---compiled
+|   |   |   |   +---@ampproject
+|   |   |   |   |   \---toolbox-optimizer
+|   |   |   |   +---@babel
+|   |   |   |   |   \---runtime
+|   |   |   |   |       +---helpers
+|   |   |   |   |       |   \---esm
+|   |   |   |   |       \---regenerator
+|   |   |   |   +---@edge-runtime
+|   |   |   |   |   +---cookies
+|   |   |   |   |   +---ponyfill
+|   |   |   |   |   \---primitives
+|   |   |   |   +---@hapi
+|   |   |   |   |   \---accept
+|   |   |   |   +---@mswjs
+|   |   |   |   |   \---interceptors
+|   |   |   |   |       \---ClientRequest
+|   |   |   |   +---@napi-rs
+|   |   |   |   |   \---triples
+|   |   |   |   +---@next
+|   |   |   |   |   +---font
+|   |   |   |   |   |   +---dist
+|   |   |   |   |   |   |   +---fontkit
+|   |   |   |   |   |   |   +---google
+|   |   |   |   |   |   |   \---local
+|   |   |   |   |   |   +---google
+|   |   |   |   |   |   \---local
+|   |   |   |   |   \---react-refresh-utils
+|   |   |   |   |       \---dist
+|   |   |   |   |           \---internal
+|   |   |   |   +---@opentelemetry
+|   |   |   |   |   \---api
+|   |   |   |   +---@vercel
+|   |   |   |   |   +---nft
+|   |   |   |   |   \---og
+|   |   |   |   |       +---emoji
+|   |   |   |   |       +---figma
+|   |   |   |   |       +---language
+|   |   |   |   |       \---satori
+|   |   |   |   +---acorn
+|   |   |   |   +---amphtml-validator
+|   |   |   |   +---anser
+|   |   |   |   +---assert
+|   |   |   |   +---async-retry
+|   |   |   |   +---async-sema
+|   |   |   |   +---babel
+|   |   |   |   +---babel-packages
+|   |   |   |   +---browserify-zlib
+|   |   |   |   +---browserslist
+|   |   |   |   +---buffer
+|   |   |   |   +---busboy
+|   |   |   |   +---bytes
+|   |   |   |   +---ci-info
+|   |   |   |   +---cli-select
+|   |   |   |   +---client-only
+|   |   |   |   +---commander
+|   |   |   |   +---comment-json
+|   |   |   |   +---compression
+|   |   |   |   +---conf
+|   |   |   |   +---constants-browserify
+|   |   |   |   +---content-disposition
+|   |   |   |   +---content-type
+|   |   |   |   +---cookie
+|   |   |   |   +---cross-spawn
+|   |   |   |   +---crypto-browserify
+|   |   |   |   +---css.escape
+|   |   |   |   +---cssnano-simple
+|   |   |   |   +---data-uri-to-buffer
+|   |   |   |   +---debug
+|   |   |   |   +---devalue
+|   |   |   |   +---domain-browser
+|   |   |   |   +---edge-runtime
+|   |   |   |   +---events
+|   |   |   |   +---find-up
+|   |   |   |   +---fresh
+|   |   |   |   +---glob
+|   |   |   |   +---gzip-size
+|   |   |   |   +---http-proxy
+|   |   |   |   +---http-proxy-agent
+|   |   |   |   +---https-browserify
+|   |   |   |   +---https-proxy-agent
+|   |   |   |   +---icss-utils
+|   |   |   |   +---ignore-loader
+|   |   |   |   +---image-detector
+|   |   |   |   +---image-size
+|   |   |   |   +---is-animated
+|   |   |   |   +---is-docker
+|   |   |   |   +---is-wsl
+|   |   |   |   +---jest-worker
+|   |   |   |   +---json5
+|   |   |   |   +---jsonwebtoken
+|   |   |   |   +---loader-runner
+|   |   |   |   +---loader-utils2
+|   |   |   |   +---loader-utils3
+|   |   |   |   +---lodash.curry
+|   |   |   |   +---lru-cache
+|   |   |   |   +---mini-css-extract-plugin
+|   |   |   |   |   \---hmr
+|   |   |   |   +---nanoid
+|   |   |   |   +---native-url
+|   |   |   |   +---neo-async
+|   |   |   |   +---next-devtools
+|   |   |   |   +---next-server
+|   |   |   |   +---node-html-parser
+|   |   |   |   +---ora
+|   |   |   |   +---os-browserify
+|   |   |   |   +---p-limit
+|   |   |   |   +---p-queue
+|   |   |   |   +---path-browserify
+|   |   |   |   +---path-to-regexp
+|   |   |   |   +---picomatch
+|   |   |   |   +---postcss-flexbugs-fixes
+|   |   |   |   +---postcss-modules-extract-imports
+|   |   |   |   +---postcss-modules-local-by-default
+|   |   |   |   +---postcss-modules-scope
+|   |   |   |   +---postcss-modules-values
+|   |   |   |   +---postcss-plugin-stub-for-cssnano-simple
+|   |   |   |   +---postcss-preset-env
+|   |   |   |   +---postcss-safe-parser
+|   |   |   |   +---postcss-scss
+|   |   |   |   +---postcss-value-parser
+|   |   |   |   +---process
+|   |   |   |   +---punycode
+|   |   |   |   +---querystring-es3
+|   |   |   |   +---raw-body
+|   |   |   |   +---react
+|   |   |   |   |   \---cjs
+|   |   |   |   +---react-dom
+|   |   |   |   |   \---cjs
+|   |   |   |   +---react-dom-experimental
+|   |   |   |   |   \---cjs
+|   |   |   |   +---react-experimental
+|   |   |   |   |   \---cjs
+|   |   |   |   +---react-is
+|   |   |   |   |   \---cjs
+|   |   |   |   +---react-refresh
+|   |   |   |   |   \---cjs
+|   |   |   |   +---react-server-dom-turbopack
+|   |   |   |   |   \---cjs
+|   |   |   |   +---react-server-dom-turbopack-experimental
+|   |   |   |   |   \---cjs
+|   |   |   |   +---react-server-dom-webpack
+|   |   |   |   |   \---cjs
+|   |   |   |   +---react-server-dom-webpack-experimental
+|   |   |   |   |   \---cjs
+|   |   |   |   +---regenerator-runtime
+|   |   |   |   +---safe-stable-stringify
+|   |   |   |   +---sass-loader
+|   |   |   |   +---scheduler
+|   |   |   |   |   \---cjs
+|   |   |   |   +---scheduler-experimental
+|   |   |   |   |   \---cjs
+|   |   |   |   +---schema-utils2
+|   |   |   |   +---schema-utils3
+|   |   |   |   +---semver
+|   |   |   |   +---send
+|   |   |   |   +---server-only
+|   |   |   |   +---setimmediate
+|   |   |   |   +---shell-quote
+|   |   |   |   +---source-map
+|   |   |   |   +---source-map08
+|   |   |   |   +---stacktrace-parser
+|   |   |   |   +---stream-browserify
+|   |   |   |   +---stream-http
+|   |   |   |   +---string-hash
+|   |   |   |   +---string_decoder
+|   |   |   |   +---strip-ansi
+|   |   |   |   +---superstruct
+|   |   |   |   +---tar
+|   |   |   |   +---terser
+|   |   |   |   +---text-table
+|   |   |   |   +---timers-browserify
+|   |   |   |   +---tty-browserify
+|   |   |   |   +---ua-parser-js
+|   |   |   |   +---unistore
+|   |   |   |   +---util
+|   |   |   |   +---vm-browserify
+|   |   |   |   +---watchpack
+|   |   |   |   +---web-vitals
+|   |   |   |   +---web-vitals-attribution
+|   |   |   |   +---webpack
+|   |   |   |   +---webpack-sources1
+|   |   |   |   +---webpack-sources3
+|   |   |   |   +---ws
+|   |   |   |   +---zod
+|   |   |   |   \---zod-validation-error
+|   |   |   +---diagnostics
+|   |   |   +---esm
+|   |   |   |   +---api
+|   |   |   |   +---build
+|   |   |   |   |   +---adapter
+|   |   |   |   |   +---analysis
+|   |   |   |   |   +---babel
+|   |   |   |   |   |   +---loader
+|   |   |   |   |   |   \---plugins
+|   |   |   |   |   +---manifests
+|   |   |   |   |   |   \---formatter
+|   |   |   |   |   +---next-config-ts
+|   |   |   |   |   +---output
+|   |   |   |   |   +---polyfills
+|   |   |   |   |   |   +---fetch
+|   |   |   |   |   |   \---object.assign
+|   |   |   |   |   +---segment-config
+|   |   |   |   |   |   +---app
+|   |   |   |   |   |   +---middleware
+|   |   |   |   |   |   \---pages
+|   |   |   |   |   +---static-paths
+|   |   |   |   |   +---swc
+|   |   |   |   |   +---templates
+|   |   |   |   |   +---turbopack-build
+|   |   |   |   |   +---turborepo-access-trace
+|   |   |   |   |   +---webpack
+|   |   |   |   |   |   +---alias
+|   |   |   |   |   |   +---config
+|   |   |   |   |   |   |   \---blocks
+|   |   |   |   |   |   |       +---css
+|   |   |   |   |   |   |       |   \---loaders
+|   |   |   |   |   |   |       \---images
+|   |   |   |   |   |   +---loaders
+|   |   |   |   |   |   |   +---css-loader
+|   |   |   |   |   |   |   |   \---src
+|   |   |   |   |   |   |   |       +---plugins
+|   |   |   |   |   |   |   |       \---runtime
+|   |   |   |   |   |   |   +---devtool
+|   |   |   |   |   |   |   +---lightningcss-loader
+|   |   |   |   |   |   |   |   \---src
+|   |   |   |   |   |   |   +---metadata
+|   |   |   |   |   |   |   +---next-app-loader
+|   |   |   |   |   |   |   +---next-edge-app-route-loader
+|   |   |   |   |   |   |   +---next-edge-ssr-loader
+|   |   |   |   |   |   |   +---next-flight-loader
+|   |   |   |   |   |   |   +---next-font-loader
+|   |   |   |   |   |   |   +---next-image-loader
+|   |   |   |   |   |   |   +---next-route-loader
+|   |   |   |   |   |   |   +---next-style-loader
+|   |   |   |   |   |   |   |   \---runtime
+|   |   |   |   |   |   |   +---postcss-loader
+|   |   |   |   |   |   |   |   \---src
+|   |   |   |   |   |   |   \---resolve-url-loader
+|   |   |   |   |   |   |       \---lib
+|   |   |   |   |   |   \---plugins
+|   |   |   |   |   |       +---minify-webpack-plugin
+|   |   |   |   |   |       |   \---src
+|   |   |   |   |   |       +---next-types-plugin
+|   |   |   |   |   |       +---telemetry-plugin
+|   |   |   |   |   |       \---wellknown-errors-plugin
+|   |   |   |   |   +---webpack-build
+|   |   |   |   |   \---webpack-config-rules
+|   |   |   |   +---client
+|   |   |   |   |   +---app-dir
+|   |   |   |   |   +---compat
+|   |   |   |   |   +---components
+|   |   |   |   |   |   +---builtin
+|   |   |   |   |   |   +---errors
+|   |   |   |   |   |   +---http-access-fallback
+|   |   |   |   |   |   +---metadata
+|   |   |   |   |   |   +---router-reducer
+|   |   |   |   |   |   |   \---reducers
+|   |   |   |   |   |   +---segment-cache-impl
+|   |   |   |   |   |   \---styles
+|   |   |   |   |   +---dev
+|   |   |   |   |   |   +---error-overlay
+|   |   |   |   |   |   \---hot-reloader
+|   |   |   |   |   |       +---app
+|   |   |   |   |   |       \---pages
+|   |   |   |   |   +---legacy
+|   |   |   |   |   +---lib
+|   |   |   |   |   +---portal
+|   |   |   |   |   +---react-client-callbacks
+|   |   |   |   |   +---request
+|   |   |   |   |   \---tracing
+|   |   |   |   +---export
+|   |   |   |   |   +---helpers
+|   |   |   |   |   \---routes
+|   |   |   |   +---lib
+|   |   |   |   |   +---eslint
+|   |   |   |   |   +---framework
+|   |   |   |   |   +---fs
+|   |   |   |   |   +---helpers
+|   |   |   |   |   +---memory
+|   |   |   |   |   +---metadata
+|   |   |   |   |   |   +---generate
+|   |   |   |   |   |   +---resolvers
+|   |   |   |   |   |   \---types
+|   |   |   |   |   \---typescript
+|   |   |   |   +---next-devtools
+|   |   |   |   |   +---server
+|   |   |   |   |   |   \---font
+|   |   |   |   |   +---shared
+|   |   |   |   |   \---userspace
+|   |   |   |   |       +---app
+|   |   |   |   |       |   \---errors
+|   |   |   |   |       \---pages
+|   |   |   |   +---pages
+|   |   |   |   +---server
+|   |   |   |   |   +---after
+|   |   |   |   |   +---api-utils
+|   |   |   |   |   |   \---node
+|   |   |   |   |   +---app-render
+|   |   |   |   |   |   +---metadata-insertion
+|   |   |   |   |   |   +---module-loading
+|   |   |   |   |   |   \---rsc
+|   |   |   |   |   +---async-storage
+|   |   |   |   |   +---base-http
+|   |   |   |   |   +---dev
+|   |   |   |   |   |   \---browser-logs
+|   |   |   |   |   +---instrumentation
+|   |   |   |   |   +---lib
+|   |   |   |   |   |   +---cache-handlers
+|   |   |   |   |   |   +---experimental
+|   |   |   |   |   |   +---incremental-cache
+|   |   |   |   |   |   +---module-loader
+|   |   |   |   |   |   +---router-utils
+|   |   |   |   |   |   +---server-ipc
+|   |   |   |   |   |   \---trace
+|   |   |   |   |   +---node-environment-extensions
+|   |   |   |   |   +---normalizers
+|   |   |   |   |   |   +---built
+|   |   |   |   |   |   |   +---app
+|   |   |   |   |   |   |   \---pages
+|   |   |   |   |   |   \---request
+|   |   |   |   |   +---og
+|   |   |   |   |   +---request
+|   |   |   |   |   +---response-cache
+|   |   |   |   |   +---resume-data-cache
+|   |   |   |   |   +---route-definitions
+|   |   |   |   |   +---route-matcher-managers
+|   |   |   |   |   +---route-matcher-providers
+|   |   |   |   |   |   +---dev
+|   |   |   |   |   |   |   \---helpers
+|   |   |   |   |   |   |       \---file-reader
+|   |   |   |   |   |   \---helpers
+|   |   |   |   |   |       \---manifest-loaders
+|   |   |   |   |   +---route-matchers
+|   |   |   |   |   +---route-matches
+|   |   |   |   |   +---route-modules
+|   |   |   |   |   |   +---app-page
+|   |   |   |   |   |   |   +---helpers
+|   |   |   |   |   |   |   \---vendored
+|   |   |   |   |   |   |       +---contexts
+|   |   |   |   |   |   |       +---rsc
+|   |   |   |   |   |   |       \---ssr
+|   |   |   |   |   |   +---app-route
+|   |   |   |   |   |   |   \---helpers
+|   |   |   |   |   |   +---pages
+|   |   |   |   |   |   |   +---builtin
+|   |   |   |   |   |   |   \---vendored
+|   |   |   |   |   |   |       \---contexts
+|   |   |   |   |   |   \---pages-api
+|   |   |   |   |   +---stream-utils
+|   |   |   |   |   +---typescript
+|   |   |   |   |   |   \---rules
+|   |   |   |   |   +---use-cache
+|   |   |   |   |   \---web
+|   |   |   |   |       +---exports
+|   |   |   |   |       +---sandbox
+|   |   |   |   |       \---spec-extension
+|   |   |   |   |           \---adapters
+|   |   |   |   \---shared
+|   |   |   |       \---lib
+|   |   |   |           +---errors
+|   |   |   |           +---i18n
+|   |   |   |           +---isomorphic
+|   |   |   |           +---lazy-dynamic
+|   |   |   |           +---page-path
+|   |   |   |           +---router
+|   |   |   |           |   \---utils
+|   |   |   |           +---segment-cache
+|   |   |   |           +---turbopack
+|   |   |   |           \---utils
+|   |   |   +---experimental
+|   |   |   |   +---testing
+|   |   |   |   |   \---server
+|   |   |   |   \---testmode
+|   |   |   |       +---playwright
+|   |   |   |       \---proxy
+|   |   |   +---export
+|   |   |   |   +---helpers
+|   |   |   |   \---routes
+|   |   |   +---lib
+|   |   |   |   +---eslint
+|   |   |   |   +---framework
+|   |   |   |   +---fs
+|   |   |   |   +---helpers
+|   |   |   |   +---memory
+|   |   |   |   +---metadata
+|   |   |   |   |   +---generate
+|   |   |   |   |   +---resolvers
+|   |   |   |   |   \---types
+|   |   |   |   \---typescript
+|   |   |   +---next-devtools
+|   |   |   |   +---dev-overlay
+|   |   |   |   |   +---components
+|   |   |   |   |   |   +---call-stack
+|   |   |   |   |   |   +---call-stack-frame
+|   |   |   |   |   |   +---code-frame
+|   |   |   |   |   |   +---copy-button
+|   |   |   |   |   |   +---devtools-indicator
+|   |   |   |   |   |   |   \---hooks
+|   |   |   |   |   |   +---devtools-panel
+|   |   |   |   |   |   |   \---resize
+|   |   |   |   |   |   +---dialog
+|   |   |   |   |   |   +---errors
+|   |   |   |   |   |   |   +---dev-tools-indicator
+|   |   |   |   |   |   |   |   \---dev-tools-info
+|   |   |   |   |   |   |   +---dialog
+|   |   |   |   |   |   |   +---environment-name-label
+|   |   |   |   |   |   |   +---error-message
+|   |   |   |   |   |   |   +---error-overlay
+|   |   |   |   |   |   |   +---error-overlay-bottom-stack
+|   |   |   |   |   |   |   +---error-overlay-call-stack
+|   |   |   |   |   |   |   +---error-overlay-footer
+|   |   |   |   |   |   |   |   \---error-feedback
+|   |   |   |   |   |   |   +---error-overlay-layout
+|   |   |   |   |   |   |   +---error-overlay-nav
+|   |   |   |   |   |   |   +---error-overlay-pagination
+|   |   |   |   |   |   |   +---error-overlay-toolbar
+|   |   |   |   |   |   |   +---error-type-label
+|   |   |   |   |   |   |   \---overlay
+|   |   |   |   |   |   +---fader
+|   |   |   |   |   |   +---hot-linked-text
+|   |   |   |   |   |   +---hydration-diff
+|   |   |   |   |   |   +---overlay
+|   |   |   |   |   |   +---overview
+|   |   |   |   |   |   +---resizer
+|   |   |   |   |   |   +---terminal
+|   |   |   |   |   |   +---toast
+|   |   |   |   |   |   +---tooltip
+|   |   |   |   |   |   \---version-staleness-info
+|   |   |   |   |   +---container
+|   |   |   |   |   |   \---runtime-error
+|   |   |   |   |   +---font
+|   |   |   |   |   +---hooks
+|   |   |   |   |   +---icons
+|   |   |   |   |   |   \---thumbs
+|   |   |   |   |   +---menu
+|   |   |   |   |   +---panel
+|   |   |   |   |   +---styles
+|   |   |   |   |   \---utils
+|   |   |   |   +---server
+|   |   |   |   |   \---font
+|   |   |   |   +---shared
+|   |   |   |   \---userspace
+|   |   |   |       +---app
+|   |   |   |       |   \---errors
+|   |   |   |       \---pages
+|   |   |   +---pages
+|   |   |   +---server
+|   |   |   |   +---after
+|   |   |   |   +---api-utils
+|   |   |   |   |   \---node
+|   |   |   |   +---app-render
+|   |   |   |   |   +---metadata-insertion
+|   |   |   |   |   +---module-loading
+|   |   |   |   |   \---rsc
+|   |   |   |   +---async-storage
+|   |   |   |   +---base-http
+|   |   |   |   +---dev
+|   |   |   |   |   \---browser-logs
+|   |   |   |   +---instrumentation
+|   |   |   |   +---lib
+|   |   |   |   |   +---cache-handlers
+|   |   |   |   |   +---experimental
+|   |   |   |   |   +---incremental-cache
+|   |   |   |   |   +---module-loader
+|   |   |   |   |   +---router-utils
+|   |   |   |   |   +---server-ipc
+|   |   |   |   |   \---trace
+|   |   |   |   +---node-environment-extensions
+|   |   |   |   +---normalizers
+|   |   |   |   |   +---built
+|   |   |   |   |   |   +---app
+|   |   |   |   |   |   \---pages
+|   |   |   |   |   \---request
+|   |   |   |   +---og
+|   |   |   |   +---request
+|   |   |   |   +---response-cache
+|   |   |   |   +---resume-data-cache
+|   |   |   |   +---route-definitions
+|   |   |   |   +---route-matcher-managers
+|   |   |   |   +---route-matcher-providers
+|   |   |   |   |   +---dev
+|   |   |   |   |   |   \---helpers
+|   |   |   |   |   |       \---file-reader
+|   |   |   |   |   \---helpers
+|   |   |   |   |       \---manifest-loaders
+|   |   |   |   +---route-matchers
+|   |   |   |   +---route-matches
+|   |   |   |   +---route-modules
+|   |   |   |   |   +---app-page
+|   |   |   |   |   |   +---helpers
+|   |   |   |   |   |   \---vendored
+|   |   |   |   |   |       +---contexts
+|   |   |   |   |   |       +---rsc
+|   |   |   |   |   |       \---ssr
+|   |   |   |   |   +---app-route
+|   |   |   |   |   |   \---helpers
+|   |   |   |   |   +---pages
+|   |   |   |   |   |   +---builtin
+|   |   |   |   |   |   \---vendored
+|   |   |   |   |   |       \---contexts
+|   |   |   |   |   \---pages-api
+|   |   |   |   +---stream-utils
+|   |   |   |   +---typescript
+|   |   |   |   |   \---rules
+|   |   |   |   +---use-cache
+|   |   |   |   \---web
+|   |   |   |       +---exports
+|   |   |   |       +---sandbox
+|   |   |   |       \---spec-extension
+|   |   |   |           \---adapters
+|   |   |   +---shared
+|   |   |   |   \---lib
+|   |   |   |       +---errors
+|   |   |   |       +---i18n
+|   |   |   |       +---isomorphic
+|   |   |   |       +---lazy-dynamic
+|   |   |   |       +---page-path
+|   |   |   |       +---router
+|   |   |   |       |   \---utils
+|   |   |   |       +---segment-cache
+|   |   |   |       +---turbopack
+|   |   |   |       \---utils
+|   |   |   +---styled-jsx
+|   |   |   |   \---types
+|   |   |   +---telemetry
+|   |   |   |   \---events
+|   |   |   \---trace
+|   |   |       \---report
+|   |   +---experimental
+|   |   |   +---testing
+|   |   |   \---testmode
+|   |   |       \---playwright
+|   |   +---font
+|   |   |   +---google
+|   |   |   \---local
+|   |   +---image-types
+|   |   +---legacy
+|   |   +---navigation-types
+|   |   |   \---compat
+|   |   +---node_modules
+|   |   |   \---postcss
+|   |   |       \---lib
+|   |   \---types
+|   +---node-releases
+|   |   \---data
+|   |       +---processed
+|   |       \---release-schedule
+|   +---normalize-path
+|   +---normalize-range
+|   +---nth-check
+|   |   \---lib
+|   |       \---esm
+|   +---object-assign
+|   +---object-hash
+|   |   \---dist
+|   +---object-inspect
+|   |   +---.github
+|   |   +---example
+|   |   \---test
+|   |       \---browser
+|   +---object-keys
+|   |   \---test
+|   +---object.assign
+|   |   +---.github
+|   |   +---dist
+|   |   \---test
+|   +---object.entries
+|   |   \---test
+|   +---object.fromentries
+|   |   \---test
+|   +---object.groupby
+|   |   +---.github
+|   |   \---test
+|   +---object.values
+|   |   \---test
+|   +---optionator
+|   |   \---lib
+|   +---own-keys
+|   |   +---.github
+|   |   \---test
+|   +---p-limit
+|   +---p-locate
+|   +---package-json-from-dist
+|   |   \---dist
+|   |       +---commonjs
+|   |       \---esm
+|   +---parent-module
+|   +---path-exists
+|   +---path-key
+|   +---path-parse
+|   +---path-scurry
+|   |   \---dist
+|   |       +---commonjs
+|   |       \---esm
+|   +---picocolors
+|   +---picomatch
+|   |   \---lib
+|   +---pify
+|   +---pirates
+|   |   \---lib
+|   +---possible-typed-array-names
+|   |   +---.github
+|   |   \---test
+|   +---postcss
+|   |   \---lib
+|   +---postcss-import
+|   |   \---lib
+|   +---postcss-js
+|   +---postcss-media-query-parser
+|   |   \---dist
+|   |       \---nodes
+|   +---postcss-nested
+|   +---postcss-selector-parser
+|   |   \---dist
+|   |       +---selectors
+|   |       \---util
+|   +---postcss-value-parser
+|   |   \---lib
+|   +---prelude-ls
+|   |   \---lib
+|   +---prop-types
+|   |   \---lib
+|   +---punycode
+|   +---queue-microtask
+|   +---react
+|   |   \---cjs
+|   +---react-dom
+|   |   \---cjs
+|   +---react-is
+|   |   +---cjs
+|   |   \---umd
+|   +---read-cache
+|   +---readdirp
+|   +---reflect.getprototypeof
+|   |   \---test
+|   +---regexp.prototype.flags
+|   |   \---test
+|   +---resolve
+|   |   +---.github
+|   |   +---bin
+|   |   +---example
+|   |   +---lib
+|   |   \---test
+|   |       +---dotdot
+|   |       |   \---abc
+|   |       +---module_dir
+|   |       |   +---xmodules
+|   |       |   |   \---aaa
+|   |       |   +---ymodules
+|   |       |   |   \---aaa
+|   |       |   \---zmodules
+|   |       |       \---bbb
+|   |       +---node_path
+|   |       |   +---x
+|   |       |   |   +---aaa
+|   |       |   |   \---ccc
+|   |       |   \---y
+|   |       |       +---bbb
+|   |       |       \---ccc
+|   |       +---pathfilter
+|   |       |   \---deep_ref
+|   |       +---precedence
+|   |       |   +---aaa
+|   |       |   \---bbb
+|   |       +---resolver
+|   |       |   +---baz
+|   |       |   +---browser_field
+|   |       |   +---dot_main
+|   |       |   +---dot_slash_main
+|   |       |   +---false_main
+|   |       |   +---incorrect_main
+|   |       |   +---invalid_main
+|   |       |   +---multirepo
+|   |       |   |   \---packages
+|   |       |   |       +---package-a
+|   |       |   |       \---package-b
+|   |       |   +---nested_symlinks
+|   |       |   |   \---mylib
+|   |       |   +---other_path
+|   |       |   |   \---lib
+|   |       |   +---quux
+|   |       |   |   \---foo
+|   |       |   +---same_names
+|   |       |   |   \---foo
+|   |       |   +---symlinked
+|   |       |   |   +---package
+|   |       |   |   \---_
+|   |       |   |       +---node_modules
+|   |       |   |       \---symlink_target
+|   |       |   \---without_basedir
+|   |       \---shadowed_core
+|   |           \---node_modules
+|   |               \---util
+|   +---resolve-from
+|   +---resolve-pkg-maps
+|   |   \---dist
+|   +---reusify
+|   |   +---.github
+|   |   |   \---workflows
+|   |   \---benchmarks
+|   +---run-parallel
+|   +---safe-array-concat
+|   |   +---.github
+|   |   \---test
+|   +---safe-push-apply
+|   |   +---.github
+|   |   \---test
+|   +---safe-regex-test
+|   |   +---.github
+|   |   \---test
+|   +---scheduler
+|   |   \---cjs
+|   +---semver
+|   |   +---bin
+|   |   +---classes
+|   |   +---functions
+|   |   +---internal
+|   |   \---ranges
+|   +---set-function-length
+|   |   \---.github
+|   +---set-function-name
+|   |   \---.github
+|   +---set-proto
+|   |   +---.github
+|   |   \---test
+|   +---sharp
+|   |   +---install
+|   |   +---lib
+|   |   \---src
+|   +---shebang-command
+|   +---shebang-regex
+|   +---side-channel
+|   |   +---.github
+|   |   \---test
+|   +---side-channel-list
+|   |   +---.github
+|   |   \---test
+|   +---side-channel-map
+|   |   +---.github
+|   |   \---test
+|   +---side-channel-weakmap
+|   |   +---.github
+|   |   \---test
+|   +---signal-exit
+|   |   \---dist
+|   |       +---cjs
+|   |       \---mjs
+|   +---simple-swizzle
+|   +---source-map-js
+|   |   \---lib
+|   +---stable-hash
+|   |   \---dist
+|   +---stop-iteration-iterator
+|   |   +---.github
+|   |   \---test
+|   +---string-width
+|   +---string-width-cjs
+|   |   \---node_modules
+|   |       +---ansi-regex
+|   |       +---emoji-regex
+|   |       |   \---es2015
+|   |       \---strip-ansi
+|   +---string.prototype.includes
+|   |   +---.github
+|   |   |   \---workflows
+|   |   \---tests
+|   +---string.prototype.matchall
+|   |   +---.github
+|   |   \---test
+|   +---string.prototype.repeat
+|   |   \---tests
+|   +---string.prototype.trim
+|   |   \---test
+|   +---string.prototype.trimend
+|   |   \---test
+|   +---string.prototype.trimstart
+|   |   \---test
+|   +---strip-ansi
+|   +---strip-ansi-cjs
+|   |   \---node_modules
+|   |       \---ansi-regex
+|   +---strip-bom
+|   +---strip-json-comments
+|   +---styled-jsx
+|   |   +---dist
+|   |   |   +---babel
+|   |   |   +---index
+|   |   |   \---webpack
+|   |   \---lib
+|   +---sucrase
+|   |   +---bin
+|   |   +---dist
+|   |   |   +---esm
+|   |   |   |   +---parser
+|   |   |   |   |   +---plugins
+|   |   |   |   |   |   \---jsx
+|   |   |   |   |   +---tokenizer
+|   |   |   |   |   +---traverser
+|   |   |   |   |   \---util
+|   |   |   |   +---transformers
+|   |   |   |   \---util
+|   |   |   +---parser
+|   |   |   |   +---plugins
+|   |   |   |   |   \---jsx
+|   |   |   |   +---tokenizer
+|   |   |   |   +---traverser
+|   |   |   |   \---util
+|   |   |   +---transformers
+|   |   |   +---types
+|   |   |   |   +---parser
+|   |   |   |   |   +---plugins
+|   |   |   |   |   |   \---jsx
+|   |   |   |   |   +---tokenizer
+|   |   |   |   |   +---traverser
+|   |   |   |   |   \---util
+|   |   |   |   +---transformers
+|   |   |   |   \---util
+|   |   |   \---util
+|   |   +---register
+|   |   \---ts-node-plugin
+|   +---supports-color
+|   +---supports-preserve-symlinks-flag
+|   |   +---.github
+|   |   \---test
+|   +---tailwindcss
+|   |   +---lib
+|   |   |   +---cli
+|   |   |   |   +---build
+|   |   |   |   +---help
+|   |   |   |   \---init
+|   |   |   +---css
+|   |   |   +---lib
+|   |   |   +---postcss-plugins
+|   |   |   |   \---nesting
+|   |   |   +---public
+|   |   |   +---util
+|   |   |   \---value-parser
+|   |   +---nesting
+|   |   +---node_modules
+|   |   |   +---.bin
+|   |   |   +---fast-glob
+|   |   |   |   +---node_modules
+|   |   |   |   |   \---glob-parent
+|   |   |   |   \---out
+|   |   |   |       +---managers
+|   |   |   |       +---providers
+|   |   |   |       |   +---filters
+|   |   |   |       |   +---matchers
+|   |   |   |       |   \---transformers
+|   |   |   |       +---readers
+|   |   |   |       +---types
+|   |   |   |       \---utils
+|   |   |   +---jiti
+|   |   |   |   +---bin
+|   |   |   |   +---dist
+|   |   |   |   |   \---plugins
+|   |   |   |   \---lib
+|   |   |   \---postcss-load-config
+|   |   |       \---src
+|   |   +---peers
+|   |   +---scripts
+|   |   +---src
+|   |   |   +---cli
+|   |   |   |   +---build
+|   |   |   |   +---help
+|   |   |   |   \---init
+|   |   |   +---css
+|   |   |   +---lib
+|   |   |   +---postcss-plugins
+|   |   |   |   \---nesting
+|   |   |   +---public
+|   |   |   +---util
+|   |   |   \---value-parser
+|   |   +---stubs
+|   |   \---types
+|   |       \---generated
+|   +---tapable
+|   |   \---lib
+|   +---tar
+|   |   \---dist
+|   |       +---commonjs
+|   |       \---esm
+|   +---thenify
+|   +---thenify-all
+|   +---tinyglobby
+|   |   +---dist
+|   |   \---node_modules
+|   |       +---fdir
+|   |       |   \---dist
+|   |       \---picomatch
+|   |           \---lib
+|   +---to-regex-range
+|   +---ts-api-utils
+|   |   \---lib
+|   +---ts-interface-checker
+|   |   \---dist
+|   +---tsconfig-paths
+|   |   +---lib
+|   |   |   \---__tests__
+|   |   |       \---data
+|   |   \---src
+|   |       \---__tests__
+|   |           \---data
+|   +---tslib
+|   |   \---modules
+|   +---type-check
+|   |   \---lib
+|   +---typed-array-buffer
+|   |   +---.github
+|   |   \---test
+|   +---typed-array-byte-length
+|   |   +---.github
+|   |   \---test
+|   +---typed-array-byte-offset
+|   |   +---.github
+|   |   \---test
+|   +---typed-array-length
+|   |   +---.github
+|   |   \---test
+|   +---typescript
+|   |   +---bin
+|   |   \---lib
+|   |       +---cs
+|   |       +---de
+|   |       +---es
+|   |       +---fr
+|   |       +---it
+|   |       +---ja
+|   |       +---ko
+|   |       +---pl
+|   |       +---pt-br
+|   |       +---ru
+|   |       +---tr
+|   |       +---zh-cn
+|   |       \---zh-tw
+|   +---unbox-primitive
+|   |   +---.github
+|   |   \---test
+|   +---unrs-resolver
+|   +---update-browserslist-db
+|   +---uri-js
+|   |   \---dist
+|   |       +---es5
+|   |       \---esnext
+|   |           \---schemes
+|   +---util-deprecate
+|   +---which
+|   |   \---bin
+|   +---which-boxed-primitive
+|   |   +---.github
+|   |   \---test
+|   +---which-builtin-type
+|   |   \---test
+|   +---which-collection
+|   |   +---.github
+|   |   \---test
+|   +---which-typed-array
+|   |   +---.github
+|   |   \---test
+|   +---word-wrap
+|   +---wrap-ansi
+|   |   \---node_modules
+|   |       \---ansi-styles
+|   +---wrap-ansi-cjs
+|   |   \---node_modules
+|   |       +---ansi-regex
+|   |       +---emoji-regex
+|   |       |   \---es2015
+|   |       +---string-width
+|   |       \---strip-ansi
+|   +---yallist
+|   |   \---dist
+|   |       +---commonjs
+|   |       \---esm
+|   +---yaml
+|   |   +---browser
+|   |   |   \---dist
+|   |   |       +---compose
+|   |   |       +---doc
+|   |   |       +---nodes
+|   |   |       +---parse
+|   |   |       +---schema
+|   |   |       |   +---common
+|   |   |       |   +---core
+|   |   |       |   +---json
+|   |   |       |   \---yaml-1.1
+|   |   |       \---stringify
+|   |   \---dist
+|   |       +---compose
+|   |       +---doc
+|   |       +---nodes
+|   |       +---parse
+|   |       +---schema
+|   |       |   +---common
+|   |       |   +---core
+|   |       |   +---json
+|   |       |   \---yaml-1.1
+|   |       \---stringify
+|   \---yocto-queue
++---public
++---src
+|   \---app
+|       +---about
+|       +---contact
+|       +---recommendations
+|       +---saved-recommendations
+|       \---wizard
+\---utils
