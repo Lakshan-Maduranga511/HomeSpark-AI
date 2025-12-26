@@ -2,15 +2,15 @@ import Link from "next/link";
 
 const Footer = () => {
   const quickLinks = [
-    { name: "Home", href: "/" },
-    { name: "Get Started", href: "/get-started" },
-    { name: "Our Mission", href: "/mission" },
+    // { name: "Home", href: "/" },
+    // { name: "Get Started", href: "/get-started" },
+    // { name: "Our Mission", href: "/mission" },
   ];
 
   const resources = [
-    { name: "FAQ", href: "/faq" },
-    { name: "Support", href: "/support" },
-    { name: "Privacy Policy", href: "/privacy" },
+    // { name: "FAQ", href: "/faq" },
+    // { name: "Support", href: "/support" },
+    // { name: "Privacy Policy", href: "/privacy" },
   ];
 
   const socialLinks = [
