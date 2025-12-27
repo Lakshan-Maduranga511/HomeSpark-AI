@@ -5,6 +5,13 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+
+## 🌐 Live Demo
+
+**The application is now live and accessible!**
+
+- **Frontend (Vercel):** https://homespark-ai.vercel.app/
+
 ## 🏠 About
 
 HomeSpark is an innovative AI-driven home renovation recommendation system that provides personalized, budget-conscious, and climate-aware renovation suggestions. The system leverages unsupervised machine learning (K-Means & NMF), real-time climate data from OpenWeatherMap API, and visual inspiration from Unsplash API to deliver comprehensive renovation plans tailored to user preferences.
